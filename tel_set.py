@@ -13,7 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 def main_menu():
 
-    user_pas = '6azot1'
+    user_pas = 'Password'
     user_fio = create_user.user_fio
     user_tel = create_user.user_tel
 
